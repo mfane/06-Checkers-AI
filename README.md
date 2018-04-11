@@ -1,6 +1,6 @@
 # 06-Checkers
 
-this is to be a game of checkers where the player controls the red pieces and a very simple ai controls the black pieces
+this is a game of checkers where the player controls the red pieces and a very simple ai controls the black pieces
 the ai takes the first possible piece that has an available move and does the first move it can do,
 but if a jump is possible for any pieces the ai chooses to do the jump before anything else
 
